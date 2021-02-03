@@ -318,9 +318,13 @@ nav ul ul li a span {
 	background-size: cover;
 	-ms-background-size: cover;
 	-o-background-size: cover;
-    -moz-background-size: cover;
-    -webkit-background-size: cover;
+    	-moz-background-size: cover;
+    	-webkit-background-size: cover;
 	background-attachment: fixed;
+	-ms-background-attachment: fixed;
+	-o-background-attachment: fixed;
+    	-moz-background-attachment: fixed;
+    	-webkit-background-attachment: fixed;
 	position: relative;
 }
 
@@ -329,6 +333,10 @@ nav ul ul li a span {
 		background: url(../image/ESPACIO5\ M.png);
 		height: 680px;
 		background-attachment: fixed;
+		-ms-background-attachment: fixed;
+		-o-background-attachment: fixed;
+    		-moz-background-attachment: fixed;
+    		-webkit-background-attachment: fixed;
 	}
 }
 
